@@ -1,6 +1,6 @@
 ## Assignment 1- base R graphing exercise
 
-This repo contains the following four plots and the respective scripts to construct them: 
+This repo contains the following four plots and scripts to construct them: 
 
 
   plot script | plot
