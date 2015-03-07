@@ -31,9 +31,15 @@ Also included (below) is copy of the _course project readme_. It includes:
 
 ## Script instructions
 
-Each script starts with the assumption that the working directory contains
-the text file "household_power_consumption". This is the data component of the assignment. 
-If this file is not in the working directory, please see below for download source and instructions.
+Each script file starts with the assumption that the working directory contains
+the dataset "household_power_consumption.txt". This dataset is over two million
+rows and represents approximately four years of sampling. Each script file subsets
+the original dataset to a few thousand rows taken from two days.
+
+
+If the "household_power_consumption.txt" dataset is not in the working directory,
+please see below for download source and instructions.
+
 
 ## [Course Project Readme] Introduction
 
