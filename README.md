@@ -1,14 +1,7 @@
 ## Assignment 1- base R graphing exercise
 
-The goal of this assignment is to construct exact replicas of four plots. The original plots are
-shown on both the <a href="https://class.coursera.org/exdata-012/human_grading/view/courses/973506/assessments/3/submissions">course instruction web site</a>
-and the <a href="https://github.com/rdpeng/ExData_Plotting1">course GitHub web site</a>. The course
-GitHub web site shows that the plots have a transparent background, which is incorporated in
-each script by setting `bg = transparent`. 
+This repo contains the following four plots and the respective scripts to construct them: 
 
-
-The products of this assignment are four plots and the four scripts written to construct them. 
-Please find them listed as follows:
 
   plot script | plot
 ------------- | ----------
@@ -17,26 +10,32 @@ Please find them listed as follows:
 `plot3.R`     | `plot3.png`
 `plot4.R`     | `plot4.png`
 
+
+They are produced to satisfy the goal of the assignment, which is to construct exact replicas of four plots via four separate scripts.
+
+The original plots are shown on both the <a href="https://class.coursera.org/exdata-012/human_grading/view/courses/973506/assessments/3/submissions">assignment instructions web site</a>
+and the <a href="https://github.com/rdpeng/ExData_Plotting1">course GitHub web site</a>. The plots have a transparent background, which is 
+only apparent when downloaded and viewed on one's computer image viewer. Transparency is set in the
+`png` function with the following argument setting:
+
+
+`bg = transparent` 
+
+
+Also included (below) is copy of the _course project readme_. It includes:
+
+
+* Data source and description
+* Download instructions
+* Assignment objectives and instructions
+
 ## Script instructions
 
-Each plot script starts with the assumption that the working directory contains
-the text file "household_power_consumption". This is the data component of the assignment.
+Each script starts with the assumption that the working directory contains
+the text file "household_power_consumption". This is the data component of the assignment. 
+If this file is not in the working directory, please see below for download source and instructions.
 
-If "household_power_consumption" is not in the working directory, please see below for download
-instructions. Also included below are:
-
-
-* Data description
-* Data source description,
-* Assignment objectives, and
-* Assignment instructions
-
-All of this information was forked (per instruction) from the
-course GitHub web also shown below.
-
-Main features of The first plot script (`plot1.R`) For plot1.R Each script contains a convenience line to remove 
-
-## Introduction
+## [Course Project Readme] Introduction
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
