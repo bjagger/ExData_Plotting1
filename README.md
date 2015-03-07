@@ -1,6 +1,6 @@
 ## Assignment 1- base R graphing exercise
 
-This repo contains the following four plots and scripts to construct them: 
+This repo contains the following four plots and the scripts that construct them: 
 
 
   plot script | plot
@@ -16,13 +16,13 @@ They are produced to satisfy the goal of the assignment, which is to construct e
 The original plots are shown on both the <a href="https://class.coursera.org/exdata-012/human_grading/view/courses/973506/assessments/3/submissions">assignment instructions web site</a>
 and the <a href="https://github.com/rdpeng/ExData_Plotting1">course GitHub web site</a>. The plots have a transparent background, which is 
 only apparent when downloaded and viewed on one's computer image viewer. Transparency is set in the
-`png` function with the following argument setting:
+`png` function via:
 
 
 `bg = transparent` 
 
 
-Also included (below) is copy of the _course project readme_. It includes:
+Also included (below) is a copy of the _course project readme_. It includes:
 
 
 * Data source and description
@@ -33,12 +33,12 @@ Also included (below) is copy of the _course project readme_. It includes:
 
 Each script file starts with the assumption that the working directory contains
 the dataset "household_power_consumption.txt". This dataset is over two million
-rows and represents approximately four years of sampling. Each script file subsets
+rows long and represents approximately four years of sampling. Each script file subsets
 the original dataset to a few thousand rows taken from two days.
 
 
 If the "household_power_consumption.txt" dataset is not in the working directory,
-please see below for download source and instructions.
+please see below (course project readme)for download source and instructions.
 
 
 ## [Course Project Readme] Introduction
