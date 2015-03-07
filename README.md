@@ -13,7 +13,7 @@ This repo includes the following four plots and the scripts that construct them:
 
 They are produced to satisfy the goal of the assignment, which is to construct exact replicas of four plots via four separate scripts.
 
-Also included is the <a href="https://github.com/bjagger/ExData_Plotting1/blob/master/figure/unnamed-chunk-2.png">original figure folder</a>
+Also included is the <a href="https://github.com/bjagger/ExData_Plotting1/blob/master/figure">original figure folder</a>
 forked from the course GitHub web site. The plots in this folder show that a transparent background is part of the
 original design, which feature is not apparent on the <a href="https://class.coursera.org/exdata-012/human_grading/view/courses/973506/assessments/3/submissions">assignment instructions web site</a>.
 Transparency is set in the `png` function via:
