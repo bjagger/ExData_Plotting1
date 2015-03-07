@@ -38,7 +38,7 @@ the original dataset to a few thousand rows taken from two days.
 
 
 If the "household_power_consumption.txt" dataset is not in the working directory,
-please see below (course project readme)for download source and instructions.
+please see below (course project readme) for download source and instructions.
 
 
 ## [Course Project Readme] Introduction
