@@ -1,6 +1,6 @@
 ## Assignment 1- base R graphing exercise
 
-This repo contains the following four plots and the scripts that construct them: 
+This repo includes the following four plots and the scripts that construct them: 
 
 
   plot script | plot
@@ -13,10 +13,10 @@ This repo contains the following four plots and the scripts that construct them:
 
 They are produced to satisfy the goal of the assignment, which is to construct exact replicas of four plots via four separate scripts.
 
-The original plots are shown on both the <a href="https://class.coursera.org/exdata-012/human_grading/view/courses/973506/assessments/3/submissions">assignment instructions web site</a>
-and the <a href="https://github.com/rdpeng/ExData_Plotting1">course GitHub web site</a>. The plots have a transparent background, which is 
-only apparent when downloaded and viewed on one's computer image viewer. Transparency is set in the
-`png` function via:
+Also included is the <a href="https://github.com/bjagger/ExData_Plotting1/blob/master/figure/unnamed-chunk-2.png">original figure folder</a>
+forked from the course GitHub web site. The plots in this folder show that a transparent background is part of the
+original design, which feature is not apparent on the <a href="https://class.coursera.org/exdata-012/human_grading/view/courses/973506/assessments/3/submissions">assignment instructions web site</a>.
+Transparency is set in the `png` function via:
 
 
 `bg = transparent` 
