@@ -13,7 +13,7 @@ This repo includes the following four plots and the scripts that construct them:
 
 They are produced to satisfy the goal of the assignment, which is to construct exact replicas of four plots via four separate scripts.
 
-Also included is the <a href="https://github.com/bjagger/ExData_Plotting1/blob/master/figure">original figure folder</a>
+Also included is the original <a href="https://github.com/bjagger/ExData_Plotting1/blob/master/figure">figure</a>folder
 forked from the course GitHub web site. The plots in this folder show that a transparent background is part of the
 original design, which feature is not apparent on the <a href="https://class.coursera.org/exdata-012/human_grading/view/courses/973506/assessments/3/submissions">assignment instructions web site</a>.
 Transparency is set in the `png` function via:
@@ -22,7 +22,7 @@ Transparency is set in the `png` function via:
 `bg = "transparent"` 
 
 
-Also included (below) is a copy of the _course project readme_. It includes:
+Also included (below) is a copy of the course project _README_. It includes:
 
 
 * Data source and description
