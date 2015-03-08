@@ -1,6 +1,6 @@
 ## Course project 1- base R graphing exercise
 
-This repo includes the following four plot and script files: 
+This repo includes the following eight plot and script files: 
 
 
   plot      | plot script
