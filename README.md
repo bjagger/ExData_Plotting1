@@ -38,10 +38,10 @@ the original dataset to a few thousand rows taken from two days.
 
 
 If the "household_power_consumption.txt" dataset is not in the working directory,
-please see below (course project readme) for download source and instructions.
+please see below (course project README) for download source and instructions.
 
 
-## [Course Project Readme] Introduction
+## [Course Project README] Introduction
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
