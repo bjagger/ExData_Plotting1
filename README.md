@@ -3,12 +3,12 @@
 This repo includes the following four plots and the scripts that construct them: 
 
 
-  plot script | plot
-------------- | ----------
-`plot1.R`     | `plot1.png`
-`plot2.R`     | `plot2.png`
-`plot3.R`     | `plot3.png`
-`plot4.R`     | `plot4.png`
+  plot      | plot script
+----------- | ----------
+`plot1.png` | `plot1.R`
+`plot2.png` | `plot2.R`
+`plot3.png` | `plot3.R`
+`plot4.png` | `plot4.R`
 
 
 They are produced to satisfy the goal of the assignment, which is to construct exact replicas of four plots via four separate scripts.
