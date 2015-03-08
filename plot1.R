@@ -22,7 +22,7 @@ dat <- dat[dat$Date == "1/2/2007" | dat$Date == "2/2/2007",]
 
 png("plot1.png", bg = "transparent")
 hist(dat$Global_active_power,
-	 col = "red",
+     col = "red",
      main = "Global Active Power",
      xlab = "Global Active Power (kilowatts)")
 dev.off()

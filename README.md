@@ -19,7 +19,7 @@ original design, which feature is not apparent on the <a href="https://class.cou
 Transparency is set in the `png` function via:
 
 
-`bg = transparent` 
+`bg = "transparent"` 
 
 
 Also included (below) is a copy of the _course project readme_. It includes:
