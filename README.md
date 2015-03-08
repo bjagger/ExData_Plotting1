@@ -1,4 +1,4 @@
-## Assignment 1- base R graphing exercise
+## Course project 1- base R graphing exercise
 
 This repo includes the following four plots and the scripts that construct them: 
 
@@ -11,11 +11,11 @@ This repo includes the following four plots and the scripts that construct them:
 `plot4.png` | `plot4.R`
 
 
-They are produced to satisfy the goal of the assignment, which is to construct exact replicas of four plots via four separate scripts.
+They are produced to satisfy the goal of _course project 1_, which is to construct exact replicas of four plots via four separate scripts.
 
 Also included is the original <a href="https://github.com/bjagger/ExData_Plotting1/blob/master/figure"> figure</a> folder
 forked from the course GitHub web site. The plots in this folder show that a transparent background is part of the
-original design, which feature is not apparent on the <a href="https://class.coursera.org/exdata-012/human_grading/view/courses/973506/assessments/3/submissions">assignment instructions web site</a>.
+original design, which feature is not apparent on the project <a href="https://class.coursera.org/exdata-012/human_grading/view/courses/973506/assessments/3/submissions">instructions web site</a>.
 Transparency is set in the `png` function via:
 
 
