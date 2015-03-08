@@ -29,7 +29,7 @@ Also included (below) is a copy of the course project _README_. It includes:
 * Download instructions
 * Assignment objectives and instructions
 
-## Script instructions
+## Script file instructions
 
 Each script file starts with the assumption that the working directory contains
 the dataset "household_power_consumption.txt". This dataset is over two million
